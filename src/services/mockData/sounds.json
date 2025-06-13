@@ -1,0 +1,74 @@
+[
+  {
+    "id": "water-stream",
+    "name": "Flowing Stream",
+    "category": "water",
+    "icon": "🌊",
+    "description": "Gentle babbling brook",
+    "duration": null,
+    "volume": 0.6
+  },
+  {
+    "id": "gentle-rain",
+    "name": "Gentle Rain",
+    "category": "weather",
+    "icon": "🌧️",
+    "description": "Soft rainfall on leaves",
+    "duration": null,
+    "volume": 0.5
+  },
+  {
+    "id": "wind-chimes",
+    "name": "Wind Chimes",
+    "category": "ambient",
+    "icon": "🎐",
+    "description": "Melodic chimes in the breeze",
+    "duration": null,
+    "volume": 0.4
+  },
+  {
+    "id": "birds",
+    "name": "Forest Birds",
+    "category": "nature",
+    "icon": "🐦",
+    "description": "Peaceful bird songs",
+    "duration": null,
+    "volume": 0.7
+  },
+  {
+    "id": "wind-leaves",
+    "name": "Wind Through Leaves",
+    "category": "nature",
+    "icon": "🍃",
+    "description": "Rustling leaves in the wind",
+    "duration": null,
+    "volume": 0.5
+  },
+  {
+    "id": "ocean-waves",
+    "name": "Ocean Waves",
+    "category": "water",
+    "icon": "🌊",
+    "description": "Gentle waves on the shore",
+    "duration": null,
+    "volume": 0.6
+  },
+  {
+    "id": "forest-ambience",
+    "name": "Forest Ambience",
+    "category": "nature",
+    "icon": "🌲",
+    "description": "Deep forest sounds",
+    "duration": null,
+    "volume": 0.5
+  },
+  {
+    "id": "meditation-bowl",
+    "name": "Singing Bowl",
+    "category": "meditation",
+    "icon": "🔔",
+    "description": "Tibetan singing bowl tones",
+    "duration": null,
+    "volume": 0.4
+  }
+]

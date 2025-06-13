@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "Morning Reflections",
+    "content": "Started the day with a peaceful meditation in my zen garden. The sound of flowing water helped me center my thoughts and set intentions for the day ahead. I'm grateful for these moments of stillness.",
+    "mood": "peaceful",
+    "tags": ["morning", "meditation", "gratitude"],
+    "createdAt": "2024-01-15T08:30:00Z",
+    "updatedAt": "2024-01-15T08:30:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Garden Design Inspiration",
+    "content": "Had a wonderful idea for a new garden layout today. Thinking about incorporating more bamboo elements and perhaps a small waterfall. The combination of vertical lines and flowing water could create a beautiful balance between structure and movement.",
+    "mood": "inspired",
+    "tags": ["creativity", "garden-design", "inspiration"],
+    "createdAt": "2024-01-14T15:45:00Z",
+    "updatedAt": "2024-01-14T15:45:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Stress Relief Session",
+    "content": "After a challenging day at work, I spent 20 minutes arranging stones in my digital garden. There's something deeply calming about the methodical placement of each element. The gentle sound of rain in the background helped wash away the day's tensions.",
+    "mood": "relieved",
+    "tags": ["stress-relief", "work", "evening"],
+    "createdAt": "2024-01-13T19:20:00Z",
+    "updatedAt": "2024-01-13T19:20:00Z"
+  },
+  {
+    "id": "4",
+    "title": "Mindful Moments",
+    "content": "Today I practiced mindful breathing while listening to the forest ambience sounds. I noticed how my shoulders gradually relaxed and my mind became clearer. These small moments of awareness throughout the day make such a difference in my overall well-being.",
+    "mood": "mindful",
+    "tags": ["mindfulness", "breathing", "awareness"],
+    "createdAt": "2024-01-12T12:15:00Z",
+    "updatedAt": "2024-01-12T12:15:00Z"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "breathing-5",
+    "name": "5-Minute Breathing",
+    "duration": 300,
+    "type": "guided",
+    "description": "Simple breathing meditation for beginners",
+    "instruction": "Focus on your breath, in and out, naturally and gently."
+  },
+  {
+    "id": "body-scan-10",
+    "name": "10-Minute Body Scan",
+    "duration": 600,
+    "type": "guided",
+    "description": "Progressive relaxation through body awareness",
+    "instruction": "Slowly scan your body from head to toe, releasing tension."
+  },
+  {
+    "id": "mindfulness-15",
+    "name": "15-Minute Mindfulness",
+    "duration": 900,
+    "type": "guided",
+    "description": "Present moment awareness practice",
+    "instruction": "Observe your thoughts without judgment, returning to the present."
+  },
+  {
+    "id": "zen-walking",
+    "name": "Walking Meditation",
+    "duration": 600,
+    "type": "guided",
+    "description": "Mindful movement practice",
+    "instruction": "Walk slowly and deliberately, feeling each step."
+  },
+  {
+    "id": "loving-kindness",
+    "name": "Loving Kindness",
+    "duration": 720,
+    "type": "guided",
+    "description": "Cultivate compassion for self and others",
+    "instruction": "Send loving thoughts to yourself, loved ones, and all beings."
+  }
+]

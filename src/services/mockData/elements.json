@@ -1,0 +1,164 @@
+[
+  {
+    "id": "large-stone",
+    "name": "Large Stone",
+    "category": "rock",
+    "icon": "🗿",
+    "description": "A weathered stone for grounding energy",
+    "defaultScale": 1,
+    "color": "#8B7D6B"
+  },
+  {
+    "id": "zen-stones",
+    "name": "Zen Stones",
+    "category": "rock",
+    "icon": "⚪",
+    "description": "Balanced stones for meditation focus",
+    "defaultScale": 1,
+    "color": "#A8A196"
+  },
+  {
+    "id": "pebbles",
+    "name": "Pebbles",
+    "category": "rock",
+    "icon": "○",
+    "description": "Small smooth stones for pathways",
+    "defaultScale": 1,
+    "color": "#9C9082"
+  },
+  {
+    "id": "river-rock",
+    "name": "River Rock",
+    "category": "rock",
+    "icon": "◯",
+    "description": "Smooth river-worn stone",
+    "defaultScale": 1,
+    "color": "#7A6F5D"
+  },
+  {
+    "id": "crystal",
+    "name": "Crystal",
+    "category": "rock",
+    "icon": "💎",
+    "description": "Clear quartz for clarity and focus",
+    "defaultScale": 1,
+    "color": "#E8E6E3"
+  },
+  {
+    "id": "pond",
+    "name": "Koi Pond",
+    "category": "water",
+    "icon": "🟦",
+    "description": "Peaceful pond with gentle ripples",
+    "defaultScale": 1,
+    "color": "#6B8CAE"
+  },
+  {
+    "id": "small-fountain",
+    "name": "Small Fountain",
+    "category": "water",
+    "icon": "⛲",
+    "description": "Gentle fountain with flowing water",
+    "defaultScale": 1,
+    "color": "#7A9BC7"
+  },
+  {
+    "id": "waterfall",
+    "name": "Waterfall",
+    "category": "water",
+    "icon": "🏞️",
+    "description": "Cascading water feature",
+    "defaultScale": 1,
+    "color": "#5A7BA0"
+  },
+  {
+    "id": "stream",
+    "name": "Stream",
+    "category": "water",
+    "icon": "〰️",
+    "description": "Gentle flowing stream",
+    "defaultScale": 1,
+    "color": "#6E8FB0"
+  },
+  {
+    "id": "rain-circle",
+    "name": "Rain Circle",
+    "category": "water",
+    "icon": "☔",
+    "description": "Circular water feature with rain effect",
+    "defaultScale": 1,
+    "color": "#8BA3C7"
+  },
+  {
+    "id": "bamboo",
+    "name": "Bamboo",
+    "category": "plant",
+    "icon": "🎋",
+    "description": "Tall bamboo for vertical interest",
+    "defaultScale": 1,
+    "color": "#7A9A65"
+  },
+  {
+    "id": "bonsai",
+    "name": "Bonsai Tree",
+    "category": "plant",
+    "icon": "🌳",
+    "description": "Miniature tree for contemplation",
+    "defaultScale": 1,
+    "color": "#6B8B4F"
+  },
+  {
+    "id": "fern",
+    "name": "Fern",
+    "category": "plant",
+    "icon": "🌿",
+    "description": "Delicate fern for soft texture",
+    "defaultScale": 1,
+    "color": "#8BA865"
+  },
+  {
+    "id": "moss",
+    "name": "Moss Patch",
+    "category": "plant",
+    "icon": "🟢",
+    "description": "Soft moss ground cover",
+    "defaultScale": 1,
+    "color": "#9BB573"
+  },
+  {
+    "id": "cherry-blossom",
+    "name": "Cherry Blossom",
+    "category": "plant",
+    "icon": "🌸",
+    "description": "Flowering branch for seasonal beauty",
+    "defaultScale": 1,
+    "color": "#D4A574"
+  },
+  {
+    "id": "lotus",
+    "name": "Lotus",
+    "category": "plant",
+    "icon": "🪷",
+    "description": "Sacred lotus for spiritual focus",
+    "defaultScale": 1,
+    "color": "#B8A584"
+  },
+  {
+    "id": "grass",
+    "name": "Ornamental Grass",
+    "category": "plant",
+    "icon": "🌾",
+    "description": "Flowing grass for movement",
+    "defaultScale": 1,
+    "color": "#A3B86C"
+  },
+  {
+    "id": "pine",
+    "name": "Pine Tree",
+    "category": "plant",
+    "icon": "🌲",
+    "description": "Evergreen tree for permanence",
+    "defaultScale": 1,
+    "color": "#5C7A4B"
+  }
+]

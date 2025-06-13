@@ -1,0 +1,125 @@
+[
+  {
+    "id": "1",
+    "name": "Tranquil Waters",
+    "elements": [
+      {
+        "id": "elem1",
+        "type": "water",
+        "elementId": "pond",
+        "position": { "x": 200, "y": 150 },
+        "rotation": 0,
+        "scale": 1.2
+      },
+      {
+        "id": "elem2",
+        "type": "rock",
+        "elementId": "large-stone",
+        "position": { "x": 300, "y": 100 },
+        "rotation": 15,
+        "scale": 1
+      },
+      {
+        "id": "elem3",
+        "type": "plant",
+        "elementId": "bamboo",
+        "position": { "x": 150, "y": 250 },
+        "rotation": 0,
+        "scale": 0.8
+      },
+      {
+        "id": "elem4",
+        "type": "rock",
+        "elementId": "pebbles",
+        "position": { "x": 400, "y": 200 },
+        "rotation": 0,
+        "scale": 1.1
+      }
+    ],
+    "sounds": ["water-stream", "birds"],
+    "createdAt": "2024-01-15T10:30:00Z",
+    "thumbnail": "/thumbnails/tranquil-waters.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Zen Minimalism",
+    "elements": [
+      {
+        "id": "elem5",
+        "type": "rock",
+        "elementId": "zen-stones",
+        "position": { "x": 250, "y": 175 },
+        "rotation": 0,
+        "scale": 1
+      },
+      {
+        "id": "elem6",
+        "type": "plant",
+        "elementId": "bonsai",
+        "position": { "x": 180, "y": 120 },
+        "rotation": 0,
+        "scale": 1.3
+      },
+      {
+        "id": "elem7",
+        "type": "water",
+        "elementId": "small-fountain",
+        "position": { "x": 350, "y": 200 },
+        "rotation": 0,
+        "scale": 0.9
+      }
+    ],
+    "sounds": ["gentle-rain", "wind-chimes"],
+    "createdAt": "2024-01-12T14:20:00Z",
+    "thumbnail": "/thumbnails/zen-minimalism.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Forest Sanctuary",
+    "elements": [
+      {
+        "id": "elem8",
+        "type": "plant",
+        "elementId": "fern",
+        "position": { "x": 100, "y": 200 },
+        "rotation": 0,
+        "scale": 1.1
+      },
+      {
+        "id": "elem9",
+        "type": "plant",
+        "elementId": "moss",
+        "position": { "x": 200, "y": 250 },
+        "rotation": 0,
+        "scale": 1.5
+      },
+      {
+        "id": "elem10",
+        "type": "rock",
+        "elementId": "river-rock",
+        "position": { "x": 280, "y": 130 },
+        "rotation": 45,
+        "scale": 1
+      },
+      {
+        "id": "elem11",
+        "type": "water",
+        "elementId": "waterfall",
+        "position": { "x": 380, "y": 80 },
+        "rotation": 0,
+        "scale": 1.2
+      },
+      {
+        "id": "elem12",
+        "type": "plant",
+        "elementId": "cherry-blossom",
+        "position": { "x": 150, "y": 80 },
+        "rotation": 0,
+        "scale": 1
+      }
+    ],
+    "sounds": ["forest-ambience", "water-stream", "birds"],
+    "createdAt": "2024-01-10T09:15:00Z",
+    "thumbnail": "/thumbnails/forest-sanctuary.jpg"
+  }
+]
