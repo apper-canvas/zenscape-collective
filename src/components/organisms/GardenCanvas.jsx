@@ -1,4 +1,4 @@
-import { useState, useRef, useCallback } from 'react';
+import { useState, useRef, useCallback, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import Card from '@/components/atoms/Card';
 import Button from '@/components/atoms/Button';
@@ -204,8 +204,8 @@ function GardenElement({ element, isSelected, onDrag, onSelect, onRemove }) {
     setIsDragging(false);
   }, []);
 
-  // Attach global mouse events when dragging
-  React.useEffect(() => {
+// Attach global mouse events when dragging
+  useEffect(() => {
     if (isDragging) {
       document.addEventListener('mousemove', handleMouseMove);
       document.addEventListener('mouseup', handleMouseUp);
